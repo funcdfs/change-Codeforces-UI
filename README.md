@@ -10,9 +10,8 @@ github: [github repo](https://github.com/funcdfs/change-Codeforces-UI)
 
 - 确保你的浏览器安装有脚本管理器
 - make sure you have a scripts manager for your browser
-- 然后点击脚本链接进行安装，greasyfork：[change-Codeforces-UI]()
-- then click script install link，greasyfork：[change-Codeforces-UI]()
-
+- 然后点击脚本链接进行安装，greasyfork：[change-Codeforces-UI](https://greasyfork.org/zh-CN/scripts/470204-change-codeforces-ui)
+- then click script install link，greasyfork：[change-Codeforces-UI](https://greasyfork.org/zh-CN/scripts/470204-change-codeforces-ui)
 
 ## 功能介绍 Feature Description
 - 将洛谷链接添加到侧边栏。
