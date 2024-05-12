@@ -1,4 +1,4 @@
-# change-Codeforces-UI
+# Codeforces Modern Design 
 
 change Codeforces ugly ui to **another ugly ui** [by https://github.com/funcdfs](https://github.com/funcdfs)
 ![image](https://github.com/funcdfs/change-Codeforces-UI/assets/56250171/2ac119a3-668e-4aed-aba7-6d537a297fce)
