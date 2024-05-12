@@ -484,26 +484,26 @@ body {
     position: fixed !important;
     right: 30px;
     bottom: 70px;
-    z-index: -9;
+    z-index: 9;
 }
 .memory-limit {
     position: fixed !important;
     right: 30px;
     bottom: 50px;
-    z-index: -9;
+    z-index: 9;
 
 }
 .input-file {
     position: fixed !important;
     right: 30px;
     bottom: 30px;
-    z-index: -9;
+    z-index: 9;
 }
 .output-file {
     position: fixed !important;
     right: 30px;
     bottom: 10px;
-    z-index: -9;
+    z-index: 9;
 }
 `;
         styleTag.appendChild(document.createTextNode(cssRules));
