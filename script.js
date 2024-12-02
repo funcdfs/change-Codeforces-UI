@@ -3,8 +3,8 @@
 // @name:en      Codeforces Modern Design change-Codeforces-UI
 // @namespace    https://github.com/funcdfs
 // @version      1.0
-// @description  Codeforces Modern Design change-Codeforces-UI BY FUNCDFS
-// @description:en Codeforces Modern Design change-Codeforces-UI BY FUNCDFS
+// @description  A modern UI redesign for Codeforces platform
+// @description:zh-CN  Codeforces 平台的现代化界面重设计
 // @author       funcdfs
 // @match        https://atcoder.jp/contests/*
 // @match        https://codeforces.com/*/problem/*
